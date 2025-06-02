@@ -81,7 +81,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="result">
         <h3>Tu RFC es:</h3>
         <p><?php echo $rfc ?? 'Datos incompletos'; ?></p>
-        <a href="index.html">Volver</a>
+        <a href="https://g1ruzzz.github.io/CrearRFC/">Volver</a>
     </div>
 </body>
 </html>
